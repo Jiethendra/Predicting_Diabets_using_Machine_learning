@@ -1,2 +1,3 @@
-# Loan_status_using_support_vector_classifier_algorithm_in_python
-In this project I had build a simple machine learning model using support vector classifier in python to predict weather a customer can get a loan or not based historical data of the customers
+#Predicting_Diabets_using_MAchine_learning
+In this project I had build a simple machine learning model using KNN algorithm in python to predict whether a person get diabets or not 
+This project involes importing required python libraries (like numpy, pandas, scikit, matplotlib, seaborn, etc) importing data, preprocessing data, standardisation of data, creating knn model using Scikit library, analyzing score using classification report and creating a pickle file
